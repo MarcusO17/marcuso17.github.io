@@ -2,96 +2,71 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Marcus Ong
     - name: Languages
-      value: English, German
+      value: English, Malay, Mandarin
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Bachelor's of Computer Science (First Class Honours) 
+      institution: Coventry University (in collaboration with INTI International College Penang)
+      year: 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - "WAM: 85.4%"
+        - "Final Year Project: Redefining Personal Knowledge Bases with RAG"
+        - title: Awards
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+            - Highest Graded Final-Year Project & Best Presenter Award
+            - Winner, IBM Bootcamp 2024, Generative AI Track
+            - 1st Runner-Up, Huawei Intelligent World 2030 AI/ML Track
+    - title: Diploma in Computer Science
+      institution: INTI International College Penang
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
+        - "CGPA: 3.87"
+        - "Recipient of the Dean's List (4 times), President's List, and INTI High Achievers Award (2 times)."
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Analytics Software Engineer Intern
+      institution: Keysight Technologies
+      year: 2024 - 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Developed and deployed an anomaly detection PoC using MLflow, a serverless Postgres database, AWS, and Docker in a multi-containerized architecture.
+        - Drove AI/ML strategy by designing a roadmap focused on immediate results, long-term growth, and resource efficiency.
+        - Collaborated across multiple cross-regional teams within a large-scale, agile-driven project.
+    - title: ML Research Assistant
+      institution: INTI International College Penang
+      year: 2023
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Improved model performance by 39% by applying image augmentation techniques using Keras on a dataset of over 87,000 plant disease images, which led to my first conference paper.
+        - Engaged with a Ph.D. student’s orthodontics research, gaining insight into their thesis and discussing potential machine learning workflows.
+    - title: Site IT Intern
+      institution: Plexus Corp
+      year: 2023
       description:
+        - Collaborated with IT teams to update software on over 2,000 computers, addressing security concerns.
+        - Increased fluency in IT Service Management processes using ServiceNow, including incident, problem, and change management.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Certifications
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
+    - year: 2024
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
+        - Cloud Machine Learning Engineering and MLOps (Duke University)
+        - SAS Academic Specialisation in Data Analytics (INTI International College Penang)
 
-- title: Academic Interests
+- title: Technical Skills
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Languages & Libraries
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Python, Git, Java, C++, LlamaIndex, R, Pandas, Keras, Scikit-Learn
+    - title: Tools & Platforms
       items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - REST API, Matplotlib, Seaborn, SAS
+    - title: Soft Skills
+      items:
+        - Agile Methodologies, Communication, Team Collaboration, Problem Solving
