@@ -1,0 +1,1 @@
+document.addEventListener("DOMContentLoaded",(function(){new Typed("#typed-subtitle",{strings:["a software engineer.","learning deep learning (allegedly).","frequent victim of cat-induced distractions.","a roguelike enjoyer.","running on caffeine and conflicting genres.","motorsport enjoyer (with no track time)."],typeSpeed:50,backSpeed:25,loop:!0,smartBackspace:!0})}));
