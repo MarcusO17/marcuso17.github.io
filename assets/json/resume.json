@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Marcus Ong",
-    "label": "ML Engineer",
+    "label": "Software Engineer",
     "image": "",
     "email": "marcuso1710@gmail.com",
     "url": "https://mogy.dev",
@@ -26,6 +26,12 @@
     ]
   },
   "work": [
+    {
+      "name": "Keysight Technologies",
+      "position": "Software Engineer",
+      "startDate": "2025-09-02",
+      "summary": "Working on Gen-AI orchestration to improve productivity, accuracy and adoption across multiple departments."
+    },
     {
       "name": "Keysight Technologies",
       "position": "Analytics Software Engineer Intern",
